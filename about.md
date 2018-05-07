@@ -6,7 +6,7 @@ The Shiny app is submitted as part of the Final Project Submission for the Capst
 
 ### How to use
 
-1. When the page loads up, initally the text output fields will be blank. _Please allow about 5-10 seconds for the page to load fully._<sup>1</sup>
+1. When the page loads up, initally the text output fields will be blank. _Please allow about 5-10 seconds for the page to load fully._
 2. The user can type free text, in the text box below the text that reads **Type a short sentence here:**.
 
 
@@ -16,9 +16,8 @@ The Shiny app is submitted as part of the Final Project Submission for the Capst
 
 ***
 
-#### RPubs link
+#### Miscellaneous links
+
+* The source codes for _ui.R_ and _server.R_ files are also available on the [GitHub](https://github.com/nirmalyabhattacharya/CourseraDataScienceCapstone).
 
 * Presentation Slide decks are available on the [RPubs](http://rpubs.com/nirmalyabhattacharya/CourseraDataSciencePresentation).
-
-***
-<sup>1</sup> Note that the datafiles that are used for the Shiny App are not committed to Github due to size constraints.
